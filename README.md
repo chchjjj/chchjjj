@@ -1,4 +1,7 @@
-## Hi there 👋
+## ☘️ 반갑습니다, 최현지입니다!
+
+### 🎈 ABOUT ME
+
 
 <!--
 **chchjjj/chchjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
