@@ -1,6 +1,43 @@
-## ☘️ 반갑습니다, 최현지입니다!
+## 🌏 오래도록 신뢰받는 개발자가 되겠습니다.
+<i>사용자의 시선에서 고민하고 개발하는 최현지입니다.</i>
+<br><br>
 
-### 🎈 ABOUT ME
+## 🍀 ABOUT ME
+- 💼 약 9년간의 회사 경험을 바탕으로 사람과 업무 흐름을 함께 보는 개발자
+- 🧩 소통한 내용을 정리하고 공유하며 혼선을 줄이는 문서화에 강점
+- 📊 SQLD 자격증 보유, 기초를 탄탄히 다지며 추가 학습 진행 중
+- 🌿 빠른 성과보다 꾸준히 성장하는 개발자를 지향합니다.
+<br><br>
+
+
+
+
+## ✨ SKILLS
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+---
+## 💎 PROJECTS
+### 🍰 디저트 연구소 (Spring 기반 팀프로젝트)
+- 판매자와 소비자를 아우르는 디저트 중개 플랫폼
+
 
 
 <!--
