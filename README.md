@@ -36,7 +36,7 @@
 ---
 ## 💎 PROJECTS
 ### 🍰 [디저트 연구소](https://github.com/chchjjj/teamProject) 
-Spring 기반 팀 프로젝트
+**Spring 기반 팀 프로젝트**
 - 판매자와 소비자를 연결하는 디저트 중개 플랫폼
 - 메인 페이지, 내 주변 디저트 찾기, QnA  
 - 알레르기 프리 기능, 실시간 채팅 구현
@@ -44,11 +44,18 @@ Spring 기반 팀 프로젝트
 
 
 ### 🌼 [모멘티어리(Momentiary)](https://github.com/chchjjj/react_sns_project)
-React + Express, MySQL 기반 개인 프로젝트
+**React + Express, MySQL 기반 개인 프로젝트**
 - 일상의 소소한 감사를 기록하는 SNS 서비스 
 - JWT 기반 인증/인가 구현
 - 서버/클라이언트 전체 기능 설계 및 구현
+<br>
 
+
+### 🍳 [쉐이크쿡(Shake Cook!)](https://github.com/harford-stack/flutter_team_project)
+**Flutter 기반 개인 프로젝트**
+- AI의 기반의 재료 인식과 맞춤형 레시피를 추천해주는 모바일 앱
+- 레시피 생성과 저장
+- 흔들림 인식을 사용하여 로딩바 생성
 
 
 
