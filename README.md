@@ -52,7 +52,7 @@
 
 
 ### 🍳 [쉐이크쿡(Shake Cook!)](https://github.com/harford-stack/flutter_team_project)
-**Flutter 기반 개인 프로젝트**
+**Flutter 기반 팀 프로젝트**
 - AI의 기반의 재료 인식과 맞춤형 레시피를 추천해주는 모바일 앱
 - 레시피 생성과 저장
 - 흔들림 인식을 사용하여 로딩바 생성
